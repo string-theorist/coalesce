@@ -55,7 +55,7 @@ Click the links in the ***Mod*** column below to read more about each mod.
 
 # Uninstalling
 
-- Simply navigate to your Among Us folder and delet the following folders and files:
+- Simply navigate to your Among Us folder and delete the following folders and files:
   - ***BepInEx*** folder
   - ***mono*** folder
   - ***doorstop_config.ini*** file
