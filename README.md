@@ -26,7 +26,7 @@ Click the links in the ***Mod*** column below to read more about each mod.
 |:-------------------------------------------------------------|:--------------------|
 |[Unify](https://github.com/MoltenMods/Unify)|Adds extra regions like skeld.net and matux.fr to the region selector.|
 |[CrowdedMod](https://github.com/MatuxGG/CrowdedMod)|Allows more players and Impostors on the matux.fr server|
-|[TownOfImpostots](https://github.com/AJMix/TownOfImpostors)|Adds a variety of new roles.|
+|[TownOfImpostors](https://github.com/AJMix/TownOfImpostors)|Adds a variety of new roles.|
 |[BetterSabotage](https://github.com/Pandraghon/BetterSabotage)| Makes sabotages harder for crew by modifying game effects.|
 |[UnknownImpostor](https://github.com/Pandraghon/UnknownImpostor)|Makes it harder for impostors by not letting them know who the other impostors are and allowing crewmates to vent.|
 
