@@ -29,6 +29,7 @@ Click the links in the ***Mod*** column below to read more about each mod.
 |[TownOfImpostors](https://github.com/AJMix/TownOfImpostors)|Adds a variety of new roles.|
 |[BetterSabotage](https://github.com/Pandraghon/BetterSabotage)| Makes sabotages harder for crew by modifying game effects.|
 |[UnknownImpostor](https://github.com/Pandraghon/UnknownImpostor)|Makes it harder for impostors by not letting them know who the other impostors are and allowing crewmates to vent.|
+|[ColorsPlus](https://www.curseforge.com/among-us/all-mods/colorsplus)|Adds 252 colours.|
 
 # Installation
 
