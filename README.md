@@ -32,9 +32,9 @@ Click the links in the ***Mod*** column below to read more about each mod.
 
 # Installation
 
-- Make a copy of your clean, unmodded game’s root directory `Steam/steamapps/common/Among Us` and rename the copied directory to something like "Among Us Backup". This is just in case something is accidentally deleted in the process, or in case the modded version breaks.
+- Make a copy of your clean, unmodded game’s root directory `Steam/steamapps/common/Among Us` and rename the copied directory to something like "Among Us Modded". It is advised to install mods in the copied directory, so that steam updates do not break compatibility with mods.
 - You can get to your root directory by right-clicking Among Us in Steam -> Properties -> Local Files -> Browse.
-- Extract the contents of `CoalesceMod.zip` into your Among Us folder.
+- Extract the contents of `CoalesceMod.zip` into your "Among Us Modded" folder.
 - Ensure the directory that is being modded now contains at least the following:
 ```
 .
@@ -60,4 +60,3 @@ Click the links in the ***Mod*** column below to read more about each mod.
   - ***mono*** folder
   - ***doorstop_config.ini*** file
   - ***winhttp.dll*** file
-
