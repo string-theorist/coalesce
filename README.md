@@ -47,6 +47,7 @@ Click the links in the ***Mod*** column below to read more about each mod.
 ├── doorstop_config.ini <--
 ├── GameAssembly.dll
 ├── steam_appid.txt <--
+├── TownOfImpostorsSettings.txt <--
 ├── UnityCrashHandler32.exe
 ├── UnityPlayer.dll
 └── winhttp.dll <--
