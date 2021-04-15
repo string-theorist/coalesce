@@ -35,7 +35,7 @@ Click the links in the ***Mod*** column below to read more about each mod.
 
 - Make a copy of your clean, unmodded game’s root directory `Steam/steamapps/common/Among Us` and rename the copied directory to something like "Among Us Modded". It is advised to install mods in the copied directory, so that steam updates do not break compatibility with mods.
 - You can get to your root directory by right-clicking Among Us in Steam -> Properties -> Local Files -> Browse.
-- Extract the contents of `CoalesceMod.zip` into your "Among Us Modded" folder.
+- Extract the contents of the [latest released](https://github.com/string-theorist/coalesce/releases) zip file into your "Among Us Modded" folder.
 - Ensure the directory that is being modded now contains at least the following:
 ```
 .
