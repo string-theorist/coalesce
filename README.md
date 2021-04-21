@@ -14,7 +14,7 @@ mods that work great together.
 
 >**⚠ Note: This is only compatible with the Steam version.**
 >
->Currently supported version: **v2021.3.31.3s**
+>Currently supported version: **v2021.4.14s**
 >
 >Use [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink) for Proximity Voice Chat.
 
@@ -24,12 +24,9 @@ Click the links in the ***Mod*** column below to read more about each mod.
 
 |Mod                                                           |Description          |
 |:-------------------------------------------------------------|:--------------------|
-|[Unify](https://github.com/MoltenMods/Unify)|Adds extra regions like skeld.net and matux.fr to the region selector.|
-|[CrowdedMod](https://github.com/MatuxGG/CrowdedMod)|Allows more players and Impostors on the matux.fr server|
-|[TownOfImpostors](https://github.com/AJMix/TownOfImpostors)|Adds a variety of new roles.|
-|[BetterSabotage](https://github.com/Pandraghon/BetterSabotage)| Makes sabotages harder for crew by modifying game effects.|
-|[UnknownImpostor](https://github.com/Pandraghon/UnknownImpostor)|Makes it harder for impostors by not letting them know who the other impostors are and allowing crewmates to vent.|
-|[ColorsPlus](https://www.curseforge.com/among-us/all-mods/colorsplus)|Adds 252 colours.|
+|[CustomServersClient](https://github.com/CrowdedMods/CustomServersClient)|Allows region selector customizations.|
+|[CrowdedMod](https://github.com/CrowdedMods/CrowdedMod)|Allows more players and Impostors on impostor server.|
+|[TownOfImpostors](https://github.com/AJMix/TownOfImpostors)|Adds a variety of new roles and other features.|
 
 # Installation
 
@@ -42,12 +39,14 @@ Click the links in the ***Mod*** column below to read more about each mod.
 ├── Among Us_Data
 ├── BepInEx <--
 ├── mono <--
+├── TownOfImpostors_CustomHats <--
+├── TownOfImpostors_Data <--
+├── UserData <--
 ├── Among Us.exe
 ├── baselib.dll
 ├── doorstop_config.ini <--
 ├── GameAssembly.dll
 ├── steam_appid.txt <--
-├── TownOfImpostorsSettings.txt <--
 ├── UnityCrashHandler32.exe
 ├── UnityPlayer.dll
 └── winhttp.dll <--
